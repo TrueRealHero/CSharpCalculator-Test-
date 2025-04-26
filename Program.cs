@@ -2,7 +2,7 @@
 using System.Xml.XPath;
 using MySecondTestAppCalculator;
 
-            Console.WriteLine("Выбери что сделать:"); // А тут версия для Second Branch итд
+            Console.WriteLine("Выбери что сделать:"); // ДУБЛЬ ДВА!
             Console.WriteLine("1 - Калькулятор");
             Console.WriteLine("2 - Тренировка");
             Console.WriteLine("3 - Еще одна тренировка");
