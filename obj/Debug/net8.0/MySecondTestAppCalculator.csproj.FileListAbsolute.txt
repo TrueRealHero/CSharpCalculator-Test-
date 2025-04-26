@@ -1,0 +1,14 @@
+C:\Real Hero New\Programming\C sharp projects\Test\MySecondTestAppCalculator\bin\Debug\net8.0\MySecondTestAppCalculator.exe
+C:\Real Hero New\Programming\C sharp projects\Test\MySecondTestAppCalculator\bin\Debug\net8.0\MySecondTestAppCalculator.deps.json
+C:\Real Hero New\Programming\C sharp projects\Test\MySecondTestAppCalculator\bin\Debug\net8.0\MySecondTestAppCalculator.runtimeconfig.json
+C:\Real Hero New\Programming\C sharp projects\Test\MySecondTestAppCalculator\bin\Debug\net8.0\MySecondTestAppCalculator.dll
+C:\Real Hero New\Programming\C sharp projects\Test\MySecondTestAppCalculator\bin\Debug\net8.0\MySecondTestAppCalculator.pdb
+C:\Real Hero New\Programming\C sharp projects\Test\MySecondTestAppCalculator\obj\Debug\net8.0\MySecondTestAppCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Real Hero New\Programming\C sharp projects\Test\MySecondTestAppCalculator\obj\Debug\net8.0\MySecondTestAppCalculator.AssemblyInfoInputs.cache
+C:\Real Hero New\Programming\C sharp projects\Test\MySecondTestAppCalculator\obj\Debug\net8.0\MySecondTestAppCalculator.AssemblyInfo.cs
+C:\Real Hero New\Programming\C sharp projects\Test\MySecondTestAppCalculator\obj\Debug\net8.0\MySecondTestAppCalculator.csproj.CoreCompileInputs.cache
+C:\Real Hero New\Programming\C sharp projects\Test\MySecondTestAppCalculator\obj\Debug\net8.0\MySecondTestAppCalculator.dll
+C:\Real Hero New\Programming\C sharp projects\Test\MySecondTestAppCalculator\obj\Debug\net8.0\refint\MySecondTestAppCalculator.dll
+C:\Real Hero New\Programming\C sharp projects\Test\MySecondTestAppCalculator\obj\Debug\net8.0\MySecondTestAppCalculator.pdb
+C:\Real Hero New\Programming\C sharp projects\Test\MySecondTestAppCalculator\obj\Debug\net8.0\MySecondTestAppCalculator.genruntimeconfig.cache
+C:\Real Hero New\Programming\C sharp projects\Test\MySecondTestAppCalculator\obj\Debug\net8.0\ref\MySecondTestAppCalculator.dll
