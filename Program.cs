@@ -2,10 +2,10 @@
 using System.Xml.XPath;
 using MySecondTestAppCalculator;
 
-            Console.WriteLine("Выбери что сделать:");
+            Console.WriteLine("Выбери что сделать:"); // Тут будет версия для main в гите
             Console.WriteLine("1 - Калькулятор");
             Console.WriteLine("2 - Тренировка");
-            Console.WriteLine("3 - Еще чо то там");
+            Console.WriteLine("3 - Еще одна тренировка");
 
             string? choice = Console.ReadLine();
 
