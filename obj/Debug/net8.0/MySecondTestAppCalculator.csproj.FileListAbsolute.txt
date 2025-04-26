@@ -12,3 +12,4 @@ C:\Real Hero New\Programming\C sharp projects\Test\MySecondTestAppCalculator\obj
 C:\Real Hero New\Programming\C sharp projects\Test\MySecondTestAppCalculator\obj\Debug\net8.0\MySecondTestAppCalculator.pdb
 C:\Real Hero New\Programming\C sharp projects\Test\MySecondTestAppCalculator\obj\Debug\net8.0\MySecondTestAppCalculator.genruntimeconfig.cache
 C:\Real Hero New\Programming\C sharp projects\Test\MySecondTestAppCalculator\obj\Debug\net8.0\ref\MySecondTestAppCalculator.dll
+C:\Real Hero New\Programming\C sharp projects\Test\MySecondTestAppCalculator\obj\Debug\net8.0\MySecondTestAppCalculator.sourcelink.json

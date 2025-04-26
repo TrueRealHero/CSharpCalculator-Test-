@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  calculator:
+    build: .
+    container_name: calculator_container
+    volumes:
+      - C:/docker_calculator_data:/app/history
+    stdin_open: true
+    tty: true

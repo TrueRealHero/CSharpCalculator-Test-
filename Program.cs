@@ -144,6 +144,7 @@ static void RunCalculator()
             string history_list = $"{number_one} {operation} {number_two} = {final_result}";
             Console.WriteLine("Результат: " + final_result);
             history.Add(history_list);
+            File.AppendAllText("history.txt", $"{number_one} {operation} {number_two} = {final_result}\n");
         }
 
     }
